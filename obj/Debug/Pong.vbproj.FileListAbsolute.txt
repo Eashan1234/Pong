@@ -1,0 +1,14 @@
+C:\Data\CP2\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Data\CP2\Pong\Pong\bin\Debug\Pong.exe
+C:\Data\CP2\Pong\Pong\bin\Debug\Pong.pdb
+C:\Data\CP2\Pong\Pong\bin\Debug\Pong.xml
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.vbprojAssemblyReference.cache
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.Form1.resources
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.Resources.resources
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.vbproj.GenerateResource.cache
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.vbproj.CoreCompileInputs.cache
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.exe
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.xml
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.pdb
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.Form2.resources
+C:\Data\CP2\Pong\Pong\obj\Debug\Pong.Form3.resources
